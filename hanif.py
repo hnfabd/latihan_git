@@ -1,1 +1,1 @@
-print('hanif ganteng tapi boong')
+print('hanif ganteng')
